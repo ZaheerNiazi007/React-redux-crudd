@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "zaheerniazi1996@gmail.com",
+      "email": "zaheerniazi1996@gmail.com",
+      "age": "27",
+      "id": 14
+    },
+    {
+      "name": "ahmed",
+      "email": "zaheerniazi1996@gmail.com",
+      "age": "34",
+      "id": 16
+    },
+    {
+      "name": "Jasim farukh",
+      "email": "jasim@dummy.com",
+      "age": "26",
+      "id": 17
+    }
+  ]
+}
